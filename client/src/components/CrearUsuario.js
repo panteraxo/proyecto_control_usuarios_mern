@@ -84,7 +84,7 @@ useEffect(()=>{
     <div className="col-md-6 offset-md-3">
       <div className="card card-body">
         <form onSubmit={guardarDatos} >
-            <h2 className="text-center">CREAR USUARIO</h2>
+            <h2 className="text-center">CREAR USUARIOS</h2>
           <div className="mb-3">
             <label>Nombre</label>
             <input
